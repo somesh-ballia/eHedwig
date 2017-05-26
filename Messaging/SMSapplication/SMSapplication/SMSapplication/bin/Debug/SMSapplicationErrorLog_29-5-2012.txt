@@ -1,0 +1,7 @@
+5/29/2012 1:11:01 AM ==> The port 'COM1' does not exist.
+5/29/2012 1:11:04 AM ==> Access to the port 'COM3' is denied.
+5/29/2012 1:11:10 AM ==> Response received is incomplete.
+5/29/2012 1:11:19 AM ==> Access to the port 'COM3' is denied.
+5/29/2012 1:12:35 AM ==> Response received is incomplete.
+5/29/2012 1:12:54 AM ==> No data received from phone.
+5/29/2012 1:13:01 AM ==> No data received from phone.

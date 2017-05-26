@@ -1,0 +1,9 @@
+D:\Project\1 WTS Project\Messaging\test\test\bin\Debug\test.exe
+D:\Project\1 WTS Project\Messaging\test\test\bin\Debug\test.pdb
+D:\Project\1 WTS Project\Messaging\test\test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\1 WTS Project\Messaging\test\test\obj\x86\Debug\test.Form1.resources
+D:\Project\1 WTS Project\Messaging\test\test\obj\x86\Debug\test.Properties.Resources.resources
+D:\Project\1 WTS Project\Messaging\test\test\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\1 WTS Project\Messaging\test\test\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\1 WTS Project\Messaging\test\test\obj\x86\Debug\test.exe
+D:\Project\1 WTS Project\Messaging\test\test\obj\x86\Debug\test.pdb

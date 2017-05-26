@@ -1,0 +1,6 @@
+5/13/2012 12:32:08 AM ==> Format of the initialization string does not conform to specification starting at index 58.
+5/13/2012 12:32:29 AM ==> Format of the initialization string does not conform to specification starting at index 58.
+5/13/2012 12:33:31 AM ==> Format of the initialization string does not conform to specification starting at index 58.
+5/13/2012 12:34:17 AM ==> Format of the initialization string does not conform to specification starting at index 61.
+5/13/2012 12:45:45 AM ==> No success message was received.
+5/13/2012 12:46:23 AM ==> No success message was received.

@@ -1,0 +1,3 @@
+5/14/2012 8:01:58 AM ==> Response received is incomplete.
+5/14/2012 8:02:28 AM ==> No data received from phone.
+5/14/2012 8:02:39 AM ==> Access to the port 'COM3' is denied.
